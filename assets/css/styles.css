@@ -1,1 +1,8 @@
-
+.jumbotron {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.tbody {
+    background-color: white;
+}
